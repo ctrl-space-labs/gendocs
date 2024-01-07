@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ctrl-space-labs', // Usually your GitHub org/user name.
-  projectName: 'gendox-core', // Usually your repo name.
+  projectName: 'gendocs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
