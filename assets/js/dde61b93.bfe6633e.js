@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgendox_wiki=self.webpackChunkgendox_wiki||[]).push([[496],{9578:e=>{e.exports=JSON.parse('{"permalink":"/gendocs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

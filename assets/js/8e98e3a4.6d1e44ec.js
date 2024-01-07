@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgendox_wiki=self.webpackChunkgendox_wiki||[]).push([[8364],{2308:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/gendocs/blog/tags/hello","allTagsPath":"/gendocs/blog/tags","count":2,"unlisted":false}')}}]);
