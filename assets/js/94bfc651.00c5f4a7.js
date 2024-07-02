@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgendox_wiki=self.webpackChunkgendox_wiki||[]).push([[6062],{9187:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/gendocs/blog/tags/docusaurus","allTagsPath":"/gendocs/blog/tags","count":4,"unlisted":false}')}}]);

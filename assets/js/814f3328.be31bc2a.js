@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgendox_wiki=self.webpackChunkgendox_wiki||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"What is GenDox?","permalink":"/gendocs/blog/what-is-gendox","unlisted":false}]}')}}]);

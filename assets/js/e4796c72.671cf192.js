@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgendox_wiki=self.webpackChunkgendox_wiki||[]).push([[3404],{788:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/gendocs/blog/tags/facebook","allTagsPath":"/gendocs/blog/tags","count":1,"unlisted":false}')}}]);
