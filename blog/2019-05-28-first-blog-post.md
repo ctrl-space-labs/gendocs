@@ -1,12 +1,14 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+slug: what-is-gendox
+title: What is GenDox?
+authors: csekas
+tags: [hola]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+# What is GenDox?
+
+Gendox is an Enterprice ready RAG system capable of importing data from multiple sources and create AI Agents experts on this data!
+
+This is a test blog :)
+
+

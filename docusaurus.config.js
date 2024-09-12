@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'gendox.',
   tagline: 'RAG enabled AI Agent Platform',
-  favicon: 'img/g.svg',
+      favicon: 'img/gendox-logo-final-01.png',
 
   // Set the production url of your site here
   url: 'https://ctrl-space-labs.github.io',
@@ -66,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'endox.',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/g.svg',
+          src: 'img/gendox-logo-final-01.png',
         },
         items: [
           {
